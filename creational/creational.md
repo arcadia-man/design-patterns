@@ -27,5 +27,6 @@ Creational design patterns deal with object creation mechanisms. These patterns 
 - **Example Use Case**: Building a house where each step (foundation, walls, roof) is handled independently to create different types of houses.
 
 ### 5. **Prototype Pattern**
-- Creates new objects by copying an existing object (prototype), allowing modifications to be made to the new object.
+- Creates new objects by copying an existing object (prototype)
+- It saves the resource while new object creation and allow modifications to be made to the new object.
 - **Example Use Case**: Cloning a document template and customizing it with different content, preserving the structure but changing the details.
