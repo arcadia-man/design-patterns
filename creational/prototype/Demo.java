@@ -1,6 +1,6 @@
 package creational.prototype;
 
-public class PrototypePatternExample {
+public class Demo {
   public static void main(String[] args) {
     StudentNoteBook topperNote = new StudentNoteBook();
     

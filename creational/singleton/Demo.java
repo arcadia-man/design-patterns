@@ -3,8 +3,7 @@ package creational.singleton;
 import creational.singleton.logger.Logger;
 import creational.singleton.logger.UserService;
 
-public class Singleton {
-
+public class Demo {
   public static void main(String[] args) {
     // All logs are written through a single instance, preventing duplication or
     // conflicting configurations.
